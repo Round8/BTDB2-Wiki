@@ -1,13 +1,9 @@
 <div align="center">
 	<h1>Bloons TD Battles 2 Wiki</h1>
-	<img src="./docs/images/icon.png" Width=200 /><br/>
+	<img src="./images/icon.png" Width=200 /><br/>
 	<strong>🎈 Let's get hacking 🎈</strong>
     <p>A repository of tools and information for modding Bloons TD Battles 2</p>
 </div>
-
-# The Index
-
-[***Click here to visit the current online version of the index.***](https://sewer56.dev/BTDB2-Wiki/)
 
 ## About The Index
 
@@ -15,10 +11,11 @@ The BTDB2 Wiki is a community-maintained website created for the purpose of comp
 
 The goal is to have a vast array of game knowledge all condensed into one area for easy reference and viewing.
 
-## How to Contribute
+## Repository Layout
 
-- [Contributing to the Index: Online](./docs/guides/contributing-online.md)
-- [Contributing to the Index: Locally](./docs/guides/contributing-locally.md)
+- `Source`: Contains source code for the tools in this repository.
+- `docs`: Contains the documentation you're looking at right now.
+- `docs/files/template`: Specifications for various file formats. (010 Hex Editor Templates)
 
 ## Contact Us
 
