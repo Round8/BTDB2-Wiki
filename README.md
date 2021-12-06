@@ -7,7 +7,7 @@
 
 # The Index
 
-[***Click here to visit the current online version of the index.***](https://sewer56.dev/BTDB2-Wiki/)
+[***Click here to visit the current online version of the index.***](https://round8.github.io/BTDB2-Wiki/)
 
 ## About The Index
 
