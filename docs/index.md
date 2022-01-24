@@ -19,7 +19,7 @@ The goal is to have a vast array of game knowledge all condensed into one area f
 
 ## Contact Us
 
-This repository is maintained by some of the folks from the [Rush Reborn](https://discord.gg/USpJnaaNap) Discord server. Saying hi in the `#mods` channel is the fastest way to get noticed.
+This repository is maintained by some of the folks from the [Rush Reborn](https://discord.gg/USpJnaaNap) Discord server.
 
 ## Credits, Attributions
 
