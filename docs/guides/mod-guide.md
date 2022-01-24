@@ -7,6 +7,7 @@ Currently, the only supported platforms are Windows and Linux. Support will like
 2. Throw the file into the Battles 2 folder. By default, it should be in `Program Files (x86)\Steam\steamapps\common\Bloons TD Battles 2`. If you installed Steam to another location, then you'll have to figure out the location yourself.
 3. Create a folder named `mods` in the Battles 2 folder.
 4. Download the base mod from [here](https://github.com/Round8/B2L-Base) and put it in the mods folder that you just created. There are two ways to do this:
+
     a. On the GitHub page, click the "Code" button, then the "Download ZIP" button, extract the downloaded ZIP, and move the "base" folder within the extracted folder.
     ![Image](../images/mod-guide/1.png)
 
