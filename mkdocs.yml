@@ -26,15 +26,6 @@ use_directory_urls: false
 nav:
   - Home: index.md
   - Resources: resources.md
-  - Tools:
-    - Index: tools/index.md
-
-  - Files:
-    - File Formats: files/formats.md
-    - File Listing: files/list.md
-
   - Guides: 
-    - Contributing Locally: guides/contributing-locally.md
-    - Contributing Online: guides/contributing-online.md
     - Mod Guide: guides/mod-guide.md
      
