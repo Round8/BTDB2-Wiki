@@ -12,6 +12,7 @@ Currently, the only supported platforms are Windows and Linux. Support will like
     ![Image](../images/mod-guide/1.png)
 
     b. If you have [Git](https://git-scm.com/downloads) installed, you can run `git clone "https://github.com/Round8/B2L-Base"` in the terminal (Command Prompt, PowerShell, etc.) and move the "base" folder within the cloned folder.
+
 5. Download some mods! You can find some in the [Resources section](https://round8.github.io/BTDB2-Wiki/resources.html) but it is highly recommended you get them from the [Rush Reborn Discord server](https://discord.gg/USpJnaaNap).
 6. Have fun!
 
