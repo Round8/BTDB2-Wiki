@@ -6,8 +6,8 @@ Currently, the only supported platforms are Windows and Linux. Support will like
 1. Download the mod API from [here](https://cdn.discordapp.com/attachments/934954383223967764/934954769125085245/wininet.dll).
 2. Throw the file into the Battles 2 folder. By default, it should be in `Program Files (x86)\Steam\steamapps\common\Bloons TD Battles 2`. If you installed Steam to another location, then you'll have to figure out the location yourself.
 3. Create a folder named `mods` in the Battles 2 folder.
-4. Download the base mod from [here](https://github.com/Round8/B2L-Base/releases/download/v1.0.1/base.zip) and put it in the mods folder that you just created.
-5. Download some mods! You can find some in the [Resources section](https://round8.github.io/BTDB2-Wiki/resources.html) but it is highly recommended you get them from the [Rush Reborn Discord server](https://discord.gg/USpJnaaNap). Make sure you extract them in the mods folder just like the base mod, otherwise they will not work.
+4. Download the base mod from [here](https://github.com/Round8/B2L-Base/releases/download/v1.0.1/base.zip) and extract it in the mods folder that you just created.
+5. Download some mods! You can get them from the [Rush Reborn Discord server](https://discord.gg/USpJnaaNap). Make sure you extract them in the mods folder just like the base mod, otherwise they will not work.
 6. Have fun!
 
 ## Linux
